@@ -1,5 +1,5 @@
 body {
-  font-family: "Patrick Hand", cursive;
+  font-family: "Balsamiq Sans", cursive;
 }
 
 @media (max-width: 930px) {
@@ -173,6 +173,7 @@ img {
 }
 
 .presentation__title {
+  font-family: "Patrick Hand";
   text-align: center;
   font-size: 90px;
   color: #fff;
@@ -227,13 +228,13 @@ img {
 }
 
 .about__block-title {
-  font-size: 60px;
+  font-size: 50px;
   padding-bottom: 30px;
 }
 
 .about__block-text {
   text-align: justify;
-  font-size: 30px;
+  font-size: 25px;
   line-height: 40px;
 }
 
